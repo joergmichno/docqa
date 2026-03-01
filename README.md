@@ -1,8 +1,10 @@
-# docqa
+# 📚 DocQA
 
-![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![License MIT](https://img.shields.io/badge/License-MIT-green)
-![Tests passing](https://img.shields.io/badge/Tests-passing-brightgreen)
+![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
+![License MIT](https://img.shields.io/badge/License-MIT-green?style=flat)
+![Tests](https://img.shields.io/badge/Tests-33_passed-brightgreen?style=flat&logo=pytest&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-blueviolet?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-TF--IDF-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 **RAG-powered document Q&A from the command line.**
 
@@ -202,4 +204,4 @@ docqa/
 
 ---
 
-Built by **Joerg Michno** | [michno.jrg@gmail.com](mailto:michno.jrg@gmail.com)
+Built by **[Jörg Michno](https://github.com/joergmichno)** — RAG from the command line. 📚
