@@ -1,9 +1,9 @@
 # 📚 DocQA
 
 [![CI](https://github.com/joergmichno/docqa/actions/workflows/ci.yml/badge.svg)](https://github.com/joergmichno/docqa/actions/workflows/ci.yml)
-![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![License MIT](https://img.shields.io/badge/License-MIT-green?style=flat)
-![Tests](https://img.shields.io/badge/Tests-33_passed-brightgreen?style=flat&logo=pytest&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Tests](https://img.shields.io/badge/Tests-33_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](tests/)
 ![RAG](https://img.shields.io/badge/RAG-Pipeline-blueviolet?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-TF--IDF-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 [![Release](https://img.shields.io/github/v/release/joergmichno/docqa?style=flat)](https://github.com/joergmichno/docqa/releases)
@@ -204,6 +204,15 @@ docqa/
 - **NumPy** -- efficient numerical operations
 - **Anthropic SDK** (optional) -- Claude API integration
 
+## Related Projects
+
+- **[ClawGuard](https://github.com/joergmichno/clawguard)** — Security scanner for AI agents (38+ patterns, 53 tests)
+- **[Prompt Lab](https://github.com/joergmichno/prompt-lab)** — Interactive prompt injection playground ([Live Demo](https://prompttools.co))
+
+## License
+
+MIT License — see [LICENSE](LICENSE) for details.
+
 ---
 
-Built by **[Jörg Michno](https://github.com/joergmichno)** — RAG from the command line. 📚
+**Built by [Jörg Michno](https://github.com/joergmichno)** — RAG-powered document Q&A from the command line. 📚
