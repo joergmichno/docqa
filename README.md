@@ -207,6 +207,7 @@ docqa/
 ## Related Projects
 
 - **[ClawGuard](https://github.com/joergmichno/clawguard)** — Security scanner for AI agents (38+ patterns, 53 tests)
+- **[ClawGuard Shield](https://github.com/joergmichno/clawguard-shield)** — Security scanning REST API ([Live API](https://prompttools.co/api/v1/))
 - **[Prompt Lab](https://github.com/joergmichno/prompt-lab)** — Interactive prompt injection playground ([Live Demo](https://prompttools.co))
 
 ## License
